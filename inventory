@@ -1,0 +1,5 @@
+[ubuntu]
+localhost ansible_user=golu11
+
+[remote_mach]
+172.16.131.229 ansible_user=golu11
