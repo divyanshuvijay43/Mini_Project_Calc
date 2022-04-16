@@ -1,0 +1,4 @@
+2022-04-16 19:27:08.646 [main] INFO  Calculator.Calculator - [SQ ROOT] - 16.0
+2022-04-16 19:27:08.656 [main] INFO  Calculator.Calculator - [RESULT OF SQ ROOT FUNC] - 4.0
+2022-04-16 19:27:11.148 [main] INFO  Calculator.Calculator - [FACTORIAL] - 4.0
+2022-04-16 19:27:11.149 [main] INFO  Calculator.Calculator - [RESULT OF FACTORIAL FUNC] - 24.0
