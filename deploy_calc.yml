@@ -4,5 +4,5 @@
   tasks:
     - name: Pull image
       docker_image:
-        name: divyanshuvijay43/buildimage:latest
+        name: divyanshuvijay43/mycalc:latest
         source: pull
