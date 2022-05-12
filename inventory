@@ -2,4 +2,4 @@
 localhost ansible_user=golu11
 
 [remote_mach]
-192.168.31.206 ansible_user=golu11
+171.17.0.1 ansible_user=golu11
